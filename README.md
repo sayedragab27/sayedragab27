@@ -21,7 +21,7 @@ I’m a Front-End Developer and Systems Engineer with 5+ years of experience bui
 - Real-time data visualization projects  
 
 📫 **Reach me at:**  
-- Email: sayedragab27@example.com  
+- Email: sayedragab2272@gmail.com  
 - Upwork: [Your Upwork Profile Link]  
 
 😄 **Fun fact:**  
