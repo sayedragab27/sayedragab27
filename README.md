@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Sayed Ragab
 
-<!--
-**sayedragab27/sayedragab27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front-End Developer and Systems Engineer with 5+ years of experience building **dynamic web applications** and **SCADA solutions** for government and enterprise projects in Saudi Arabia.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:**  
+- MODON Portal – React & Next.js web app for complaints, services, and user management  
+- MEWA Contractor Services Portal – 11 integrated services for well drilling contractors  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning / exploring:**  
+- Advanced React patterns & Next.js 14 features  
+- SCADA system integrations and real-time dashboards  
+
+💼 **Skills & Tools:**  
+- Frontend: React.js, Next.js, Tailwind CSS, ShadCN UI, Zod, React Hook Form  
+- Backend / Data: Python, SQL (Oracle), InfluxDB, REST APIs  
+- SCADA: Ignition, OPC UA, Stream SCADA  
+- DevOps: Azure DevOps, Linux  
+
+👯 **Looking to collaborate on:**  
+- Enterprise web apps, dashboards, or SCADA web integrations  
+- Real-time data visualization projects  
+
+📫 **Reach me at:**  
+- Email: sayedragab27@example.com  
+- Upwork: [Your Upwork Profile Link]  
+
+😄 **Fun fact:**  
+I’ve built **projects monitoring 7,000+ wells and 550 dams**, integrating frontend dashboards with real-time SCADA systems!
